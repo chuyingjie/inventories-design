@@ -1,0 +1,2 @@
+# inventories-design
+inventories components
